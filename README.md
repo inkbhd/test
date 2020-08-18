@@ -3,7 +3,6 @@
 A small programming language created by Ashish Kumar Shukla.
 ## Overview
 
-Ala is a small language that Clement and Hussein built over the course of a four-day hackathon.
 It supports various fundamental programming concepts such as variable-declaration, 
 function calling, conditional statements, loops, proper order of operations, and recursion. 
 The language syntax is meant to be very readable and intuitive: for instance, every 
